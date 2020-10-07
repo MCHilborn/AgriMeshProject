@@ -1,0 +1,9 @@
+
+Node: 0001 Data: 05e1
+Node: 0002 Data: 0fff
+Node: 0003 Data: 0fff
+Node: 0000 Data: 0000
+Node: 0001 Data: 05e1
+Node: 0002 Data: 0fff
+Node: 0003 Data: 0fff
+Node: 0000 Data: 0000
